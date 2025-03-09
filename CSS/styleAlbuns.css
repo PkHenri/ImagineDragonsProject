@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: #031112;
+    overflow: hidden;
+}
+
+#imgAlbum{
+    width: 200px;
+    height: 200px;
+    border: double 4px #A64743;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+#btnVoltar{
+    background: #A64743;
+    border: double #481513 4px;
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+    margin-top: 100px;
+    text-shadow: 1px 1px black;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 5px;
+}
+
+#btnAnterior{
+    margin-left: 35%;
+}
+
+#btnProximo{
+    margin-right: 35%;
+}
+
+.containerlogo{
+    display: flex;
+    place-items: center;
+}
+
+.btnAnterProx{
+    width: 32px;
+    height: 32px;
+    border-radius: 5px;
+    border: none;
+    background: none;
+}
+
+.btnPlataforma{
+    border: none;
+    background: none;
+    width: 64px;
+    height: 64px;
+    margin-top: 25px;
+}
+
+.container{
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+
+.nomeAlbum{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 1px 1px #1ac2ce;
+    
+}
