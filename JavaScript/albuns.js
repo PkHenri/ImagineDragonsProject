@@ -29,52 +29,52 @@ document.addEventListener('DOMContentLoaded', function (){
         ];
     //Objeto contendo os links de cada album
         const linksAlbuns = {
-            '/reflections.html': {
+            '/ImagineDragonsProject/reflections.html': {
                 spotify: 'https://open.spotify.com/intl-pt/album/5IBigZKJt8uffeMjKw5uEl',
                 deezer: 'https://www.deezer.com/en/album/712820501',
                 ytm: 'https://music.youtube.com/playlist?list=OLAK5uy_lfYWpSWk2YbKYQNQEliW8tfYv4wU7IfMI'
             },
-            '/loom.html': {
+            '/ImagineDragonsProject/loom.html': {
                 spotify: 'https://open.spotify.com/intl-pt/album/7EPrkhjTBrwAV8yAKCmY0Y',
                 deezer: 'https://www.deezer.com/br/album/604614962',
                 ytm: 'https://music.youtube.com/playlist?list=OLAK5uy_mAWpL2_R3tGLfDvxDyydWDnpdyANSoJJU'
             },
-            '/mercury.html': {
+            '/ImagineDragonsProject/mercury.html': {
                 spotify: 'https://open.spotify.com/intl-pt/album/6yiXkzHvC0OTmhfDQOEWtS',
                 deezer: 'https://www.deezer.com/br/album/331818647',
                 ytm: 'https://music.youtube.com/playlist?list=OLAK5uy_l6SZmomvvIoIRJ-czJvIEpegfU44ETC0U '
             },
-            '/origins.html': {
+            '/ImagineDragonsProject/origins.html': {
                 spotify: 'https://open.spotify.com/intl-pt/album/3JfSxDfmwS5OeHPwLSkrfr',
                 deezer: 'https://www.deezer.com/br/album/77648602',
                 ytm: 'https://music.youtube.com/playlist?list=OLAK5uy_l1Nlu9ig4gBGrSxy3Q0_H6OHScYozR6D0'
             },
-            '/evolve.html': {
+            '/ImagineDragonsProject/evolve.html': {
                 spotify: 'https://open.spotify.com/intl-pt/album/33pt9HBdGlAbRGBHQgsZsU',
                 deezer: 'https://www.deezer.com/br/album/68346981',
                 ytm: 'https://music.youtube.com/playlist?list=OLAK5uy_n7O88V1oc-6l7MW_F53flLA9v2W0yHx1Y'
             },
-            '/nightvisions.html': {
+            '/ImagineDragonsProject/nightvisions.html': {
                 spotify: 'https://open.spotify.com/intl-pt/album/0LLA5YL3g2UReWlP7nWqGh',
                 deezer: 'https://www.deezer.com/br/album/352677107',
                 ytm: 'https://music.youtube.com/playlist?list=OLAK5uy_k9PV-um_nEVOhSlzu0Zs4k5BsJn40wLGE'
             },
-            '/smokemirrors.html': {
+            '/ImagineDragonsProject/smokemirrors.html': {
                 spotify: 'https://open.spotify.com/intl-pt/album/0Ikw6ho559687KCPbSjr0K',
                 deezer: 'https://www.deezer.com/br/album/9659730',
                 ytm: 'https://music.youtube.com/playlist?list=OLAK5uy_kD_TFi2ox9HgJPyaK4rw9cqCLE2loq-8E'
             },
-            '/itstime.html': {
+            '/ImagineDragonsProject/itstime.html': {
                 spotify: 'https://open.spotify.com/intl-pt/album/2Y83alrj4BCOIjSWBrv1WZ',
                 deezer: 'https://www.deezer.com/br/album/264279712',
                 ytm: 'https://music.youtube.com/playlist?list=OLAK5uy_nnIFdddNqN3yCl0Ok2_2OU37SujlnpeNg'
             },
-            '/hellandsilence.html': {
+            '/ImagineDragonsProject/hellandsilence.html': {
                 spotify: 'https://open.spotify.com/intl-pt/album/0q0BORsAWpbFNf7UqWwDbd',
                 deezer: 'https://www.deezer.com/br/album/264271982',
                 ytm: 'https://music.youtube.com/playlist?list=OLAK5uy_lH3UBrpuckY3tJ9b_jyAnWM4qulAUydkc'
             },
-            '/imaginedragons.html': {
+            '/ImagineDragonsProject/imaginedragons.html': {
                 spotify: 'https://open.spotify.com/intl-pt/album/0cmKGBTMZndKAu5DW9mPUJ',
                 deezer: 'https://www.deezer.com/br/album/264279402',
                 ytm: 'https://music.youtube.com/playlist?list=OLAK5uy_mKqk-GSSFqHEzQ7D0YIKA7fmMnxG6upZA'
