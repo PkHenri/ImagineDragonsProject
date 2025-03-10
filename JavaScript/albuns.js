@@ -97,27 +97,29 @@ document.addEventListener('DOMContentLoaded', function (){
     
     function proximo (){
         console.log('botão proximo clicado');
+        console.log('Pathname', window.location.pathname);
 
         const paginaAtual = window.location.pathname;
         const indexAtual = paginasAlbuns.indexOf(paginaAtual);
 
         if (indexAtual !== -1 && indexAtual < paginasAlbuns.length -1) {
-            window.location.href = paginasAlbuns[indexAtual + 1];
+            window.location.assign(paginasAlbuns[indexAtual + 1]);
         } else if (indexAtual === paginasAlbuns.length -1) {
-            window.location = paginasAlbuns[0];
+            window.location.assign(paginasAlbuns[0]);
         }
     }
     
     function anterior (){
         console.log('botão anterior clicado');
+        console.log('Pathname', window.location.pathname);
 
         const paginaAtual = window.location.pathname;
         const indexAtual = paginasAlbuns.indexOf(paginaAtual);
 
         if (indexAtual > 0) {
-            window.location.href = paginasAlbuns[indexAtual -1];
+            window.location.assign(paginasAlbuns[indexAtual -1]);
         } else if (indexAtual === 0) {
-            window.location.href = paginasAlbuns[paginasAlbuns.length -1];
+            window.location.assign(paginasAlbuns[paginasAlbuns.length -1]);
         }
     }
     
