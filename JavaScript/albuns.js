@@ -16,16 +16,16 @@ document.addEventListener('DOMContentLoaded', function (){
 
     //Arrey com as páginas dos albuns
         const paginasAlbuns = [
-            '/reflections.html',
-            '/loom.html',
-            '/mercury.html',
-            '/origins.html',
-            '/evolve.html',
-            '/nightvisions.html',
-            '/smokemirrors.html',
-            '/itstime.html',
-            '/hellandsilence.html',
-            '/imaginedragons.html'
+            '/ImagineDragonsProject/reflections.html',
+            '/ImagineDragonsProject/loom.html',
+            '/ImagineDragonsProject/mercury.html',
+            '/ImagineDragonsProject/origins.html',
+            '/ImagineDragonsProject/evolve.html',
+            '/ImagineDragonsProject/nightvisions.html',
+            '/ImagineDragonsProject/smokemirrors.html',
+            '/ImagineDragonsProject/itstime.html',
+            '/ImagineDragonsProject/hellandsilence.html',
+            '/ImagineDragonsProject/imaginedragons.html'
         ];
     //Objeto contendo os links de cada album
         const linksAlbuns = {
