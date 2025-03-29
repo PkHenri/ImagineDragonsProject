@@ -1,6 +1,6 @@
 # ImagineDragonsProject
 
-[Site-Projeto](https://https://pkhenri.github.io/ImagineDragonsProject/)
+[Site-Projeto](https://pkhenri.github.io/ImagineDragonsProject/)
 
 ## Descrição
 
