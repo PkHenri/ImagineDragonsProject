@@ -1,7 +1,13 @@
 # ImagineDragonsProject
- Um Site Feito Para Fãs da Banda Imagine Dragons <br>
- <hr>
- Este projeto foi tranferido para este repositorio <br>
- Tive um problema com o repositório anterior.<br>
- <hr>
- Planejo deixar o site responsivo para dispositivos mobile.
+
+[Site-Projeto](https://https://pkhenri.github.io/ImagineDragonsProject/)
+
+## Descrição
+
+Este projeto é uma aplicação web que serve como um portal para fãs da banda Imagine Dragons. Aqui, você pode encontrar os álbuns da banda.
+
+## Tecnologias Utilizadas
+
+- **HTML**: Estrutura básica do site.
+- **CSS**: Estilização e design responsivo.
+- **JavaScript**: Funcionalidades interativas.
